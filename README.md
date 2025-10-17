@@ -1,1 +1,1 @@
-# PDF Shrinker
+# Project Title
