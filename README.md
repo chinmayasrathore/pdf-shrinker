@@ -10,12 +10,12 @@ _An easy to use GUI app that runs on top of Ghostscript for compressing or reduc
 - [Overview](#-overview)
 - [Features](#-features)
 - [Quick Start](#-quick-start)
-- [Installation](#-installation)
-- [Running the App](#-running-the-app)
+- [Installation](#installation)
+- [Running the App](#running-the-app)
 - [Documentation](#-documentation)
-- [Programming Tools](#-programming-tools)
+- [Programming Tools](#programming-tools)
 - [Packaging Binaries](#-packaging-binaries)
-- [Author](#-author)
+- [Author](#author)
 ---
 <a href="https://github.com/chinmayasrathore/pdf-shrinker/blob/main/LICENSE">![Static Badge](https://img.shields.io/badge/Licence-MIT-orange)</a> ![Static Badge](https://img.shields.io/badge/Python-PySide6-blue)  ![Static Badge](https://img.shields.io/badge/Release-v1.0.0-brightgreen)
 
