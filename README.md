@@ -7,31 +7,33 @@ _An easy to use GUI app that runs on top of Ghostscript for compressing or reduc
 ---
 ## 📋 Table of Contents 
 
-- <a hef="#overview">Overview</a>
-- <a hef="#features">Features</a>
-- <a hef="#quickstart">Quick Start</a>
-- <a hef="#install">Installation</a>
-- <a hef="#run">How to Run</a>
-- <a hef="#docs">Documentation</a>
-- <a hef="#tools">Programming Tools</a>
-- <a hef="#bin">Packaging Binaries</a>
-- <a hef="#contact">Author</a>
+
+
+- [Overview](#🧭overview)
+- [Features](#📜features)
+- [Quick Start](#🚀quick-start)
+- [Installation](#🏗️installation)
+- [How to Run](#🏃‍♀️‍➡️running-the-app)
+- [Documentation](#📖documentation)
+- [Programming Tools](#🛠️programming-tools)
+- [Packaging Binaries](#📦packaging-binaries)
+- [Author](#🙋‍♂️author)
 
 ---
 <a href="https://github.com/chinmayasrathore/pdf-shrinker/blob/main/LICENSE">![Static Badge](https://img.shields.io/badge/Licence-MIT-orange)</a> ![Static Badge](https://img.shields.io/badge/Python-PySide6-blue)  ![Static Badge](https://img.shields.io/badge/Release-v1.0.0-brightgreen)
 
+## 🧭Overview
 
-<h2><a class="anchor" id="overview"></a>🧭Overview</h2>
 PDF Shrinker is a minimalistic and easy to use GUI app for compressing or reducing the size of PDF files. It works on top of [Ghostscript](https://www.ghostscript.com/) which needs to be installed on the user computer for PDFShrinker to work. Ghostscript is  open source and is free for non-commercial use. 
 
-<h2><a class="anchor" id="overview"></a>📜Features</h2>
+## 📜Features
 
 - Compress PDFs or reduce the size of the PDF
 - Alter PDF Compatibility
 - Convert coloured PDFs to Grayscale
 - Flatten PDFs
 
-<h2><a class="anchor" id="quickstart"></a>🚀 Quick Start</h2>
+## 🚀Quick Start
 
 - Install [Ghostscript](https://www.ghostscript.com/releases/gsdnld.html) 
 - Install PDFShrinker &rarr; All installers and their SHA256 checksums are available from the Assets section on the [release page](https://github.com/chinmayasrathore/pdf-shrinker/releases/tag/v1.0.0) . 
@@ -39,7 +41,7 @@ PDF Shrinker is a minimalistic and easy to use GUI app for compressing or reduci
 
 For more details, see installation and documentation sections. 
 
-<h2><a class="anchor" id="install"></a>🏗️ Installation</h2>
+## 🏗️Installation
 To install PDFShrinker, follow the steps below in sequence:
 
 
@@ -110,7 +112,7 @@ sudo dnf install pdfshrinker_1.0.0_amd64.rpm
 
 ---
 
-<h2><a class="anchor" id="run"></a>🏃‍♀️‍➡️Running the App</h2>
+## 🏃‍♀️‍➡️Running the App
 
 After installing PDF Shrinker, just search for the app in your computers app search and double click on the app icon to start the app. For windows, the search for PDFShrinker should show the app as shown below:
 
@@ -140,7 +142,7 @@ See app documentation for more information and advanced settings with which you 
 
 ---
 
-<h2><a class="anchor" id="docs"></a>📖Documentation</h2>
+## 📖Documentation
 
 You can read app documentation online or download it as a PDF or EPUB from the links below:
 
@@ -156,11 +158,11 @@ You can also watch a video tutorial by the author to get a quick heads up.
 
 ---
 
-<h2><a class="anchor" id="tools"></a>🛠️Programming Tools</h2>
+## 🛠️Programming Tools
 
 PDFShrinker has been written entirely in **Python**. The graphical user interface has been developed using **PySide6** and **QTDesigner**. The binaries  have been built using **PyInstaller**. 
 
-<h2><a class="anchor" id="tools"></a>📦 Packaging Binaries</h2>
+## 📦Packaging Binaries
 
 To build the executable/binary yourself, the general steps are (same for Windows and Linux):
 1. Install *Ghostscript* (It is assumed that ***python3*** is already installed).
@@ -176,5 +178,5 @@ To build the executable/binary yourself, the general steps are (same for Windows
 9. You can start the app by clicking on the _pdfshrinker application_ inside the dist folder. 
 
 
-<h2><a class="anchor" id="contact"></a>🙋‍♂️Author</h2>
+## 🙋‍♂️Author
 PDF Shrinker has been created by <a HREF="https://chinmayasrathore.github.io/">Dr. Chinmaya S Rathore</a>. 
