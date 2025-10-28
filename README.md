@@ -1,5 +1,5 @@
 
-# PDFShrinker  <img align="right" width="43" height="43" src=docs/images/complogo.png>  
+# PDF Shrinker  <img align="right" width="43" height="43" src=docs/images/complogo.png>  
 
 
 _An easy to use GUI app that runs on top of Ghostscript for compressing or reducing the size of PDF files._
