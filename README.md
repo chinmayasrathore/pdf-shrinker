@@ -33,10 +33,10 @@ PDF Shrinker is a minimalistic and easy to use GUI app for compressing or reduci
 ## 🚀 Quick Start
 
 - Install [Ghostscript](https://www.ghostscript.com/releases/gsdnld.html) 
-- Install PDFShrinker &rarr; All installers and their SHA256 checksums are available from the Assets section on the [release page](https://github.com/chinmayasrathore/pdf-shrinker/releases/tag/v1.0.0) . 
-- Start compressing PDFs
+- Install PDFShrinker &rarr; All installers and their SHA256 checksums are available from the Assets section on the [release page](https://github.com/chinmayasrathore/pdf-shrinker/releases/tag/v1.0.0) ([Windows](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/pdfshrinker_1.0.0_x64-setup.exe), [Linux-Ubuntu/Debian](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/pdfshrinker_1.0.0_amd64.deb), [Linux-RHEL/Fedora](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/pdfshrinker_1.0.0_amd64.rpm)). 
+- Start the app and compress PDFs
 
-For more details, see installation and documentation sections. 
+For more details, see [installation](#️-installation) and [documentation](#-documentation) sections. 
 
 ## 🏗️ Installation
 To install PDFShrinker, follow the steps below in sequence:
@@ -142,7 +142,7 @@ PDF documents that have lots of images (pictures, graphs, charts) benefit most f
 
 ## 📖 Documentation
 
-You can read app documentation online or download it as a PDF or EPUB from the links below:
+You can read the app's documentation online or download it as a PDF or EPUB from the links below:
 
 <a href="https://htmlpreview.github.io/?https://github.com/chinmayasrathore/pdf-shrinker/blob/main/docs/pdfshrinker-html.html">![Static Badge](https://img.shields.io/badge/📜Documentation-🤓Read%20Online-palevioletred)</a>
 
