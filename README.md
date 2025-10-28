@@ -13,7 +13,7 @@ _An easy to use GUI app that runs on top of Ghostscript for compressing or reduc
 - [Features](#-features)
 - [Quick Start](#-quick-start)
 - [Installation](#-installation)
-- [How to Run](#🏃‍♀️-running-the-app)
+- [How to Run](#-running-the-app)
 - [Documentation](#-documentation)
 - [Programming Tools](#-programming-tools)
 - [Packaging Binaries](#-packaging-binaries)
