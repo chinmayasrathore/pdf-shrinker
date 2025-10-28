@@ -11,11 +11,11 @@ _An easy to use GUI app that runs on top of Ghostscript for compressing or reduc
 - [Features](#-features)
 - [Quick Start](#-quick-start)
 - [Installation](#️-installation)
-- [Running the App](#️️-running-the-app)
+- [Running the App](#-running-the-app)
 - [Documentation](#-documentation)
 - [Programming Tools](#️-programming-tools)
 - [Packaging Binaries](#-packaging-binaries)
-- [Author](#️-author) 
+- [Author](#-author) 
 ---
 <a href="https://github.com/chinmayasrathore/pdf-shrinker/blob/main/LICENSE">![Static Badge](https://img.shields.io/badge/Licence-MIT-orange)</a> ![Static Badge](https://img.shields.io/badge/Python-PySide6-blue)  ![Static Badge](https://img.shields.io/badge/Release-v1.0.0-brightgreen)
 
@@ -109,7 +109,7 @@ sudo dnf install pdfshrinker_1.0.0_amd64.rpm
 
 ---
 
-## Running the App
+## 🚗 Running the App
 
 After installing PDF Shrinker, just search for the app in your computers app search and double click on the app icon to start the app. For windows, the search for PDFShrinker should show the app as shown below:
 
