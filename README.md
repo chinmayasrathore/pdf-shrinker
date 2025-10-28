@@ -131,7 +131,7 @@ This should start the app interface as shown below:
 
 Using the PDF Shrinker app is straight forward:
 1. Provide an input PDF that you wish to compress.
-2. Provide an output file  name for the compressed file. If you need a sample PDF to try out PDF compression using PDF Shrinker, you can download [Canada's Changing Climate Report 2019](https://share.google/ZyRNviDDpEgr3dWgn) which is a large PDF ( 444 Pages, ~35 MB) with lots of images.
+2. Provide an output file  name for the compressed file. If you need a sample PDF to try out PDF compression using PDF Shrinker, you can download [Canada's Changing Climate Report 2019](https://share.google/ZyRNviDDpEgr3dWgn) which is a large PDF ( 444 Pages, ~35 MB) with lots of images. Do read it if you can!
 3. Choose a Compression preset (screen,ebook and default provide maximum compression in that order).
 4. Choose a compatibility preset (1.4 is default but 1.5 may provide better compression)
 5. Press the <button>Shrink PDF</button> button to compress the input PDF file.   
