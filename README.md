@@ -143,7 +143,7 @@ See app documentation for more information and advanced settings with which you 
 
 You can read app documentation online or download it as a PDF or EPUB from the links below:
 
-<a href="docs/pdfshrinker-html.html">![Static Badge](https://img.shields.io/badge/📜Documentation-🤓Read%20Online-palevioletred)</a>
+<a href="https://htmlpreview.github.io/?https://github.com/chinmayasrathore/pdf-shrinker/blob/main/docs/pdfshrinker-html.html">![Static Badge](https://img.shields.io/badge/📜Documentation-🤓Read%20Online-palevioletred)</a>
 
 <a href="docs/pdfshrinker.pdf">![Static Badge](https://img.shields.io/badge/📜Documentation-⬇️Download%20PDF-palegreen)</a> <a href="docs/pdfshrinker-epub3.epub">![Static Badge](https://img.shields.io/badge/⬇️Download%20EPUB-khaki)</a>
 
