@@ -22,7 +22,7 @@ _An easy to use GUI app that runs on top of Ghostscript for compressing or reduc
 ---
 <a href="https://github.com/chinmayasrathore/pdf-shrinker/blob/main/LICENSE">![Static Badge](https://img.shields.io/badge/Licence-MIT-orange)</a> ![Static Badge](https://img.shields.io/badge/Python-PySide6-blue)  ![Static Badge](https://img.shields.io/badge/Release-v1.0.0-brightgreen)
 
-## 🧭Overview
+## 🧭 Overview
 
 PDF Shrinker is a minimalistic and easy to use GUI app for compressing or reducing the size of PDF files. It works on top of [Ghostscript](https://www.ghostscript.com/) which needs to be installed on the user computer for PDFShrinker to work. Ghostscript is  open source and is free for non-commercial use. 
 
@@ -178,5 +178,5 @@ To build the executable/binary yourself, the general steps are (same for Windows
 9. You can start the app by clicking on the _pdfshrinker application_ inside the dist folder. 
 
 
-## 🙋‍♂️Author
+## 🙋‍♂️ Author
 PDF Shrinker has been created by <a HREF="https://chinmayasrathore.github.io/">Dr. Chinmaya S Rathore</a>. 
