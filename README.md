@@ -145,7 +145,7 @@ You can read app documentation online or download it as a PDF or EPUB from the l
 
 <a href="https://htmlpreview.github.io/?https://github.com/chinmayasrathore/pdf-shrinker/blob/main/docs/pdfshrinker-html.html">![Static Badge](https://img.shields.io/badge/📜Documentation-🤓Read%20Online-palevioletred)</a>
 
-<a href="[docs/pdfshrinker.pdf](https://github.com/chinmayasrathore/pdf-shrinker/blob/main/docs/pdfshrinker.pdf)">![Static Badge](https://img.shields.io/badge/📜Documentation-⬇️Download%20PDF-palegreen)</a> <a href="[docs/pdfshrinker-epub3.epub](https://github.com/chinmayasrathore/pdf-shrinker/blob/main/docs/pdfshrinker-epub3.epub)">![Static Badge](https://img.shields.io/badge/⬇️Download%20EPUB-khaki)</a>
+<a href="https://github.com/chinmayasrathore/pdf-shrinker/blob/main/docs/pdfshrinker.pdf">![Static Badge](https://img.shields.io/badge/📜Documentation-⬇️Download%20PDF-palegreen)</a> <a href="https://github.com/chinmayasrathore/pdf-shrinker/blob/main/docs/pdfshrinker-epub3.epub">![Static Badge](https://img.shields.io/badge/⬇️Download%20EPUB-khaki)</a>
 
 The app documentation provides more details about various options and provides some helpful practical examples. 
 
