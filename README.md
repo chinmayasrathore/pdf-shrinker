@@ -35,7 +35,7 @@ PDF Shrinker is a minimalistic and easy to use GUI app for compressing or reduci
 <h2><a class="anchor" id="quickstart"></a>🚀 Quick Start</h2>
 
 - Install [Ghostscript](https://www.ghostscript.com/releases/gsdnld.html) 
-- Install PDFShrinker 
+- Install PDFShrinker &rarr; All installers and their SHA256 checksums are available from the Assets section on the [release page](https://github.com/chinmayasrathore/pdf-shrinker/releases/tag/v1.0.0) . 
 - Start compressing PDFs
 
 For more details, see installation and documentation sections. 
@@ -53,7 +53,8 @@ For windows, [download the Ghostscript installer](https://www.ghostscript.com/re
 
 
 #### 2. Download and Install PDFShrinker
-Download PDF Shrinker installer  pdfshrinker_1.0.0_x64-setup.exe  and install it following screen instructions. 
+
+Download PDF Shrinker installer  [pdfshrinker_1.0.0_x64-setup.exe](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/pdfshrinker_1.0.0_x64-setup.exe)  and install it following screen instructions. ([SHA256 Checksum](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/win-sha256.txt))
 
 Windows users may get the following system advisory during installation. They will need to choose <button>More info</button> followed by <button>Run anyway</button> to proceed with the installation (see screenshot below). This message is generated because the app has not been digitally signed by the app developer. App signing certificates are insanely expensive for individual developers! As PDF Shrinker is open source, anyone can inspect the source code on this site.  
 
@@ -86,7 +87,7 @@ Ghostscript is also available for Linux (64-bit) as a *snap package* from the Gh
 #### 2. Download and Install PDF Shrinker
 
 ##### Ubuntu/Debian
- Download the _pdfshrinker_1.0.0_amd64.deb_ package and double click on the downloaded file to install via the software manager. 
+ Download the [pdfshrinker_1.0.0_amd64.deb](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/pdfshrinker_1.0.0_amd64.deb) package and double click on the downloaded file to install via the software manager. ([SHA256 Checksum](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/deb-sha256.txt))
 
 OR 
  
@@ -98,7 +99,7 @@ sudo dpkg -i pdfshrinker_1.0.0_amd64.deb
 
 ##### RHEL/Fedora
 
-Download the _pdfshrinker_1.0.0_amd64.rpm_ package and double click on the downloaded file to install via the software manager. 
+Download the [pdfshrinker_1.0.0_amd64.rpm](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/pdfshrinker_1.0.0_amd64.rpm) package and double click on the downloaded file to install via the software manager. ([SHA256 Checksum](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/rpm-sha256.txt))
 
 OR
  
