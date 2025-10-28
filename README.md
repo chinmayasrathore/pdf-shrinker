@@ -18,8 +18,7 @@ _An easy to use GUI app that runs on top of Ghostscript for compressing or reduc
 - <a hef="#contact">Author</a>
 
 ---
-<a href="https://choosealicense.com/licenses/mit/">![Static Badge](https://img.shields.io/badge/Licence-MIT-orange)</a> ![Static Badge](https://img.shields.io/badge/Python-PySide6-blue)  ![Static Badge](https://img.shields.io/badge/Release-v1.0.0-brightgreen)
-
+<a href="https://github.com/chinmayasrathore/pdf-shrinker/blob/main/LICENSE">![Static Badge](https://img.shields.io/badge/Licence-MIT-orange)</a> ![Static Badge](https://img.shields.io/badge/Python-PySide6-blue)  ![Static Badge](https://img.shields.io/badge/Release-v1.0.0-brightgreen)
 
 
 <h2><a class="anchor" id="overview"></a>🧭Overview</h2>
