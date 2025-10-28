@@ -109,7 +109,7 @@ sudo dnf install pdfshrinker_1.0.0_amd64.rpm
 
 ---
 
-## 🚗 Running the App
+## Running the App
 
 After installing PDF Shrinker, just search for the app in your computers app search and double click on the app icon to start the app. For windows, the search for PDFShrinker should show the app as shown below:
 
