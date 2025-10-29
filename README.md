@@ -54,11 +54,11 @@ For windows, [download the Ghostscript installer](https://www.ghostscript.com/re
 
 Download PDF Shrinker installer  [pdfshrinker_1.0.0_x64-setup.exe](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/pdfshrinker_1.0.0_x64-setup.exe)  and install it following screen instructions. ([SHA256 Checksum](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/win-sha256.txt))
 
-Windows users may get the following system advisory during installation. They will need to choose <button>More info</button> followed by <button>Run anyway</button> to proceed with the installation (see screenshot below). This message is generated because the app has not been digitally signed by the app developer. App signing certificates are insanely expensive for individual developers! As PDF Shrinker is open source, anyone can inspect the source code on this site.  
+Windows users may get the following system advisory during installation. They will need to choose <button>*More info*</button> followed by <button>*Run anyway*</button> to proceed with the installation (see screenshot below). This message is generated because the app has not been digitally signed by the app developer. App signing certificates are insanely expensive for individual developers! As PDF Shrinker is open source, anyone can inspect the source code on this site.  
 
 ![Unknown Publisher Message](docs/images/unknown-publisher-message.png)
 
-If you try to run PDFShrinker without first installing, the software will display a message shown below requesting the user to install Ghostscript. 
+If you try to run PDFShrinker without first installing _Ghostscript_, the software will display a message shown below requesting the user to install Ghostscript. 
 
 ![Install Ghostscript](docs/images/gs-not-installed-msg.png)
 
