@@ -158,7 +158,7 @@ You can also watch a video tutorial by the author to get a quick heads up.
 
 ## 🛠️ Programming Tools
 
-PDFShrinker has been written entirely in **Python**. The graphical user interface has been developed using **PySide6** and **QTDesigner**. The binaries  have been built using **PyInstaller**. 
+PDFShrinker has been written entirely in **Python**. The graphical user interface has been developed using **PySide6**. The binaries  have been built using **PyInstaller**. 
 
 ## 📦 Packaging Binaries
 
