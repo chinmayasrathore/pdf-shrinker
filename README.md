@@ -34,7 +34,7 @@ PDF Shrinker is a minimalistic and easy to use GUI app for compressing or reduci
 
 - Install [Ghostscript](https://www.ghostscript.com/releases/gsdnld.html) 
 - Install PDFShrinker &rarr; All installers and their SHA256 checksums are available from the Assets section on the [release page](https://github.com/chinmayasrathore/pdf-shrinker/releases/tag/v1.0.0) ([Windows](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/pdfshrinker_1.0.0_x64-setup.exe), [Linux-Ubuntu/Debian](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/pdfshrinker_1.0.0_amd64.deb), [Linux-RHEL/Fedora](https://github.com/chinmayasrathore/pdf-shrinker/releases/download/v1.0.0/pdfshrinker_1.0.0_amd64.rpm)). 
-- Start the app and compress PDFs
+- Start the app and compress PDFs (Sample PDF &rarr;  [Canada's Changing Climate Report 2019](https://share.google/ZyRNviDDpEgr3dWgn) - 35 MB 444 Pages)
 
 For more details, see [installation](#️-installation) and [documentation](#-documentation) sections. 
 
