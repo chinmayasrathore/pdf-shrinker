@@ -152,7 +152,7 @@ The app documentation provides more details about various options and provides s
 
 You can also watch a video tutorial by the author to get a quick heads up.
 
-<a href="https://htmlpreview.github.io/?https://github.com/chinmayasrathore/pdf-shrinker/blob/main/docs/video.html">![Static Badge](https://img.shields.io/badge/🎬Video%20Tutorial-▶️Watch%20on%20YouTube-red)</a>
+<a href="https://youtu.be/6wNtDOQvzGA">![Static Badge](https://img.shields.io/badge/🎬Video%20Tutorial-▶️Watch%20on%20YouTube-red)</a>
 
 ---
 
